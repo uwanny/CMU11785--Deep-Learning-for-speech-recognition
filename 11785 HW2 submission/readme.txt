@@ -1,0 +1,2 @@
+The first part of the file is used for training the model, I used the modified resnet 50 to train, the batch size is 192, the initial learning rate is 0.1, with epochs 100. The convnext is not good for my case, but I also tested it and the results are shown in wandb.
+The second part of the file is used for finetuning the model, you can ignore the previous training section, and just focus on the finetuning section, I applied arcface loss and center loss separately for this section, you can run one loss while comment another one. 
