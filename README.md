@@ -2,34 +2,29 @@
 
 ### Challenge 1: Frame Level Classification of Speech with MLPs
 
-https://www.kaggle.com/c/11785-hw1
+https://www.kaggle.com/competitions/11785-hw1p2-s24
+code: ./11785_HW1_submission
+Descriptions: ./hwp2\HW1P2_Writeup_v2.pdf
 
-code: ./hw1_kaggle
+### Challenge 2: Face Classification & Verification using CNN
 
-### Challenge 2: Label-aligned Phoneme Level Classification of Speech with CNNs
+https://www.kaggle.com/competitions/11785-hw2p2-face-recognition
+https://www.kaggle.com/competitions/11785-hw2p2-face-verification
 
-https://www.kaggle.com/c/11785-hw2pt2
+code: 11785_HW2_submission
 
-code: in another repo: https://github.com/fanzhenya/ResNet1D-VariableLengthPooling-For-TimeSeries
+### Challenge 3: Unalinged Utterance to Phoneme Level Classification of Speech with LSTM, CTC and Beam Search
 
-### Challenge 3: Unalinged Phoneme Level Classification of Speech with LSTM, CTC and Beam Search
+https://www.kaggle.com/competitions/hw3p2asr-s24
 
-https://www.kaggle.com/c/11785-hw3p2
+code: 11785_HW3_submission
 
-code: ./hw3pt2
+### Challenge 4: Attention-based End-to-End Speech-to-Text Deep Neural Network using Transformer and LSTM
 
-### Challenge 4: End-to-End learning from speech to text with LSTM and Attention
 
-code: ./hw4
+https://www.kaggle.com/competitions/automatic-speech-recognition-s24
+code: code: 11785_HW4_submission
+Challenge descriptions: 
 
-## Rankings
 
-![](./rankings.png)
 
-## References
-
-Credits to the original authors.
-
-- https://github.com/cmudeeplearning11785/deep-learning-tutorials/
-- https://github.com/pytorch/examples/
-- ...
